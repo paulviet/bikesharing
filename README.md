@@ -46,13 +46,13 @@ Disregarding Gender we can look at the Maximum usage of the system in the heatma
 
 An Additional Analysis should be to determine the average Distances ridden from starting points
 
-![image-20210524055439712](C:\Users\paul\AppData\Roaming\Typora\typora-user-images\image-20210524055439712.png)
+![image-20210524055439712](Resources/image-20210524055439712.png)
 
 Since the minimum ride considered to be a trip is 60 seconds, and the maximum ride that is billed to the users is when the trip exceeds past 45 Minutes (2,700 seconds). We find that the most there are users starting stations that can net a bicyclist a trip on average for approximately 2 miles. What we notice is that riders that can accomblish this distance though are at the perimeter of the island of Manhattan or the furtherst reaches of the Citi-Bike  stations. We will want to be certain to space the stations close enough to accomodate riders who can only ride short distances as well starting and ending points near the most popular spots.
 
 Another Analysis, since Des Moines is not as populated as New York City, would to make a cost analysis to allow longer rides and how might weather affect Ridership.
 
-![image-20210524055905762](C:\Users\paul\AppData\Roaming\Typora\typora-user-images\image-20210524055905762.png)
+![image-20210524055905762](Resources/image-20210524055905762.png)
 
 Des Moines would require a Massive and mostly likely distanced station arrangement to reach residential population areas around the suburbs of the City Center, where distances are in excess of the 2 miles that a NYC CitiBike rider would typically ride in 45 minutes.
 
